@@ -1,9 +1,3 @@
-import logo from './logo.svg';
-import './utils/global.css';
-
-
-function App() {
-  return (
     <div className="App">
       <button>botao</button>
       <input type='text' placeholder='input texto'></input>
@@ -14,7 +8,3 @@ function App() {
       <div style={{ position: "absolute", width: "50px", height: "50px", backgroundColor: "red" }} className='bx-sh'>box shadow</div>
 
     </div>
-  );
-}
-
-export default App;

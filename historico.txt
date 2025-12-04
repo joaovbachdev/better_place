@@ -1,3 +1,10 @@
 dia 1/12 criei o projeto no git e o projeto react
 
 npm create vite@latest . -- --template react
+
+
+
+dia 2/12
+criado estrutuda do back com express
+criado global.css para padronizar estilos do projeto
+criado pasta de components inciiando pela tela de home

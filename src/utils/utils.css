@@ -1,0 +1,19 @@
+.fx{
+    display: flex;
+}
+.g-1{
+    gap: 1rem;
+}
+
+.g-2{
+    gap: 2rem;
+}
+.g-3{
+    gap: 3rem;
+}
+.fx-col{
+    flex-direction: column;
+}
+.fx-row{
+    flex-direction: row;
+}
